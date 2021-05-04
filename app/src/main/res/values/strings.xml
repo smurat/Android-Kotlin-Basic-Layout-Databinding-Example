@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me Kotlin</string>
+    <string name="name">Serdar Murat Çelik</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Aksaray şehrinin tarihi antik dönemlere kadar uzanmaktadır. Hititler devrinde \"Garsaura\" adıyla anılan yerleşim, son Kapadokya kralı Archelaos tarafından yeniden inşa edildi. Şehri yeniden inşa edilen krala nispetende kente \"Archaleis\" adı verildi[3]. Kapadokya Krallığı\'nın son bulmasıyla yerleşim Roma topraklarına katıldı. Claudius döneminde Roma kolonisi olan yerleşimden \"Colonia Archelais\" adıyla bahsedildi[4]. Roma\'nın ikiye ayrılmasıyla Bizans idaresine geçen yerleşim 1078 sonrasında civar yerleşimlerle birlikte Selçuklu hakimiyetine girdi. Selçuklular tarafından Kutalmışoğlu\'nun idaresine verilen yerleşim daha sonra yeni kurulan Anadolu Selçuklu Devleti topraklarına katıldı. Sultan II. Kılıç Arslan tarafından 1170 yılında şehir yeniden imar edilmiş ve yaptırdığı saray nedeniyle de yerleşim "Aksaray" adını almıştır. Sultanın çoğunlukla şehirde yaşaması ve sultan tarafından kente askeri tesisler inşa edilmesi nedeniyle de Dârüzzafer, Dârürribât ve Dârülcihâd unvanları da verildi[5].</string>
+    <string name="which_country">Which Country?</string>
+    <string name="done_button">DONE</string>
+</resources>
